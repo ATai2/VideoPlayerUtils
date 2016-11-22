@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="evp_submit">快进</string>
+    <string name="evp_retry">快退</string>
+
+</resources>
